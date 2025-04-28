@@ -22,6 +22,7 @@ LendIt is a web-based platform that enables users to lend and rent various items
 - Recommendation engine
 - Real-time chat between lenders and renters
 - Responsive design for mobile and desktop
+![LendIt-Medium-Banner-p-2600](https://github.com/user-attachments/assets/c614dc88-ae3d-44c5-88a9-2afc215dfe1a)
 
 ## Tech Stack
 
